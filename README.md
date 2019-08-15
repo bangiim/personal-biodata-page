@@ -1,7 +1,8 @@
 # Personal Biodata Page
-The task of creating self-biodata pages with HTML, CSS and JS
+The task of creating self-biodata pages with HTML and CSS
 
-# About
-# Screenshot
 # To Use
-- Clone the repo of dest : `git clone https://github.com/kangbaim/personal-biodata-page.git`
+- Clone the repo of personal bio : `git clone https://github.com/kangbaim/personal-biodata-page.git`
+
+# Screenshot
+<img src="https://i.screenshot.net/55yy6i2" alt="page" border="0" width="100%">

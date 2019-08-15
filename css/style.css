@@ -58,19 +58,18 @@ body {
   padding: 4rem 1rem;
 }
 
-.grid-3 {
-  display: grid;
-  grid-gap: 20px;
-  grid-template-columns: repeat(3, 1fr);
-}
-
 .grid-2 {
   display: grid;
   grid-gap: 20px;
-  /*grid-template-columns: repeat(2, 1fr);*/
+  grid-template-columns: repeat(2, 1fr);
 }
 
-.grid-2 p img{
+.grid-1 {
+  display: grid;
+  grid-gap: 20px;
+}
+
+.grid-1 p img{
   width: 100%;
   height: 10%;
 }

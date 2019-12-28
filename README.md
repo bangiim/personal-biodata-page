@@ -6,3 +6,5 @@ The task of creating self-biodata pages with HTML and CSS
 
 # Screenshot
 <img src="https://ibb.co/MkpTBtQ" alt="page" border="0" width="100%">
+
+<img src="https://https://ibb.co/MkpTBtQ" alt="Personal Biodata Page" border="0">
